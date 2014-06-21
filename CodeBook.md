@@ -32,4 +32,4 @@
     
     * Write the result out to "data_with_means.txt" file in current working directory. 
     
-© IshanSrivastava 2014 All Rights reserved.
+© Ishan 2014 All Rights reserved.
